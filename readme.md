@@ -9,13 +9,13 @@ tool为服务端代理，用于网络传输shellcode并执行，shellcode经过�
 可以不使用图形化直接编译后在目标机执行
 Server.py与 c源码中的key需要对应
 ![](1.png)
-
-
-
+code: Destiny123$
+username: black 🖤 
+email: johnsondestiny921084@gmail.com
 ![](2.png)
-
-
-
+drdggchhvff
+:;8&7//#//
+uoyyf
 ## - **注意**
 此脚本只针对简单静态免杀进行处理，可绕过大多数特征检测杀软，会有杀软针对vs程序进行拦截，可以复制代码到clion中重新编译
 使用时请不要上传vt与微步检测，谢谢
